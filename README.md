@@ -1,0 +1,1 @@
+# mindex-coding-challenge
